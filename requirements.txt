@@ -1,0 +1,9 @@
+#Requerimentos
+
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+scikit-learn
+numpy
+typing
