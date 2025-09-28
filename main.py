@@ -247,3 +247,4 @@ if __name__ == "__main__":
     
     # Inicia o servidor Uvicorn
     uvicorn.run("main:app", host=HOST, port=PORT, reload=True)
+    #uvicorn main:app --reload <-- mete isso
