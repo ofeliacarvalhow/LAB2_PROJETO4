@@ -1,0 +1,5 @@
+Fontes dos dados:
+
+https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets
+
+https://www.kaggle.com/datasets/saadaliyaseen/analyzing-student-academic-trends
